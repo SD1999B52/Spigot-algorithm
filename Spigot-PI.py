@@ -1,5 +1,3 @@
-# gth
-
 N = 500
 LEN = 10 * N // 3
 
@@ -49,4 +47,3 @@ if __name__ == '__main__':
                     nines = 0
     
     print(predigit, end = '')
-    #typegh
